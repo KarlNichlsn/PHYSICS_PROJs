@@ -1,4 +1,5 @@
-### Boston Housing Data PCA
+## Principal Component Analysis
+### Boston Housing Data
 
 Least squares regression on Boston Housing data such as median home value, average number of rooms, weighted distance to Boston Employment centres etc. Correclation matrices between the 6 parameters were calculated.
 
